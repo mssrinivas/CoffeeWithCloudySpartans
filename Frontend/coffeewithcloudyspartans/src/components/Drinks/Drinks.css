@@ -1,0 +1,126 @@
+.centering
+{
+  justify-content: center;
+}
+.wrapper {
+
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(4, [col] 100px ) ;
+        grid-template-rows: repeat(3, [row] auto  );
+        background-color: #fff;
+        color: #444;
+    }
+
+    .box {
+        background-color: #000;
+        color: #fff;
+        border-radius: 5px;
+        padding: 20px;
+        font-size: 150%;
+
+    }
+
+    .e {
+        grid-column: col / span 4; 
+        grid-row: row 3;
+    }
+
+.card-title
+{
+  align-content: center;
+}
+.card3 {
+  background: #fff;
+  border-radius: 6px;
+  margin: 1rem;
+  position: relative;
+}
+
+.descrip
+{
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.changeimage
+{
+  width: 50%;
+  height: 50%;
+}
+
+.card-2 {
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+.borderingSearch
+{
+  border-width: 1px;
+  border-style: solid;
+  padding-left: 0px;
+  padding-right: 0px;
+  border-radius: 5px;
+}
+.band {
+  width: 90%;
+  max-width: 1240px;
+  margin: 0 auto;
+  
+  display: grid;
+  
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  grid-gap: 20px;
+}
+
+@media only screen and (min-width: 500px) {
+  .band {
+    grid-template-columns: 1fr 1fr;
+  }  
+}
+
+@media only screen and (min-width: 850px) {
+  .band {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+
+.descrip
+{
+  padding-top: 20px !important;
+}
+.ownercentering
+{
+  justify-content: center;
+}
+.ownercard-title
+{
+  align-content: center;
+}
+.ownercard3 {
+  background: #fff;
+  border-radius: 6px;
+  margin: 1rem;
+  position: relative;
+}
+
+.ownerdescrip
+{
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.ownerchangeimage
+{
+  width: 50%;
+  height: 50%;
+}
+
+.ownercard-2 {
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+.item
+{
+  width: 100%;
+  height: 100%;
+}

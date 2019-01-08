@@ -1,0 +1,61 @@
+.backgroundcontainer
+{
+	background-image: url('http://eskipaper.com/images/cool-coffee-wallpaper-1.jpg?h=630&la=en&w=1080');
+	height : 100% !important;
+}
+
+.bg
+{
+	min-height: 100%;
+	min-width: 100%;
+	position: fixed;
+}
+
+.whitefont
+{
+	color: #fff;
+}
+body{
+	height: 100%;
+}
+.containerone
+{
+	padding-top: 500px;
+	justify-content: center;
+	text-align: center;	
+	align-content: center;
+}
+
+.centeredone
+{
+	position: fixed; /* or absolute */
+	top: 45%;
+	padding-left: 15%;
+	bottom: 50%;
+}
+
+.form-controly
+{
+	width: 100px;
+}
+
+.DatePicker
+{
+	width: 1000px;
+}
+
+.roundy
+{
+border-radius: 50px;
+}
+
+.smally
+{
+	width: 500px;
+}
+
+.reduce
+{
+	width: 100px !important;
+
+}

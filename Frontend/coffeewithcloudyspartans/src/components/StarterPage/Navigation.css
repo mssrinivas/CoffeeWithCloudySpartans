@@ -1,0 +1,101 @@
+.active {
+	background-color: #fff;
+	color : #fff;
+}
+.navbar
+{
+
+	padding-right: 80px;
+}
+
+  .navbar-nav > li.navbar-right {
+    float: right !important;
+  }
+
+  .bg-fill
+  {
+    background-color: rgb(255, 255, 255);
+    color: #fff;
+  }
+
+.spacebetweenone
+{
+  padding-left: 50px; 
+}
+
+.spacebetweentwo
+{
+  padding-left: 400px;
+}
+.addspaceinnavbar
+{
+  padding-left: 450px;
+}
+
+.searchbar
+{
+  padding-left: 100px;
+  width: 350px !important;
+}
+.padtopnavbar
+  {
+padding-top: 3px;
+  }
+.droppy
+{
+  padding-top: 0px;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1200px;
+    }
+}
+
+.lower
+{
+  padding-top: 15px;
+}
+
+.bg
+{
+  background-image: url("https://img.icons8.com/ios/50/000000/roman-soldier.png")
+}
+
+.Design
+{
+   font-size: 0.5cm;
+}
+.addspace
+{
+    padding-left: 50px;
+}
+
+.spacebetween
+{
+  padding-left: 90px;
+}
+.navbar
+{
+background-color:#fff;
+}
+
+#navbarNavDropdown
+{
+    background-color:  #fff !important;
+}
+
+.bgwhite
+{
+    color: #000 !important;
+}
+
+.backwhite
+{
+    color: #fff !important;
+}
+
+.bg-transparent
+{
+    color: #fff !important;
+}
