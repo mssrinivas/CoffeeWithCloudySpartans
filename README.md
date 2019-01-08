@@ -1,6 +1,11 @@
 # CoffeeWithCloudySpartans
 Developed an Online Coffee Store application using Mongo, Express, React, Node (MERN) and Go. Hosted the data service API modules developed in Go as microservices using Kubernetes.
 
+Original Repository :
+
+https://github.com/nguyensjsu/fa18-281-cloudy-spartans
+
+
 ## Application Architecture Diagram
 
 ![ArchitectureDiagram](/Architecture/Architecture.png)
