@@ -1,9 +1,34 @@
 # CoffeeWithCloudySpartans
 Developed an Online Coffee Store application using Mongo, Express, React, Node (MERN) and Go. Hosted the data service API modules developed in Go as microservices using Kubernetes.
 
-## Architecture Diagram
+## Application Architecture Diagram
 
-![Architecture](Architecture.png)
+![ArchitectureDiagram](/Architecture/Architecture.png)
+
+### Microservices Architecture
+
+### User Services
+
+![UserServices](/Architecture/MongoDiagram.png)
+
+
+### Catalog Services
+
+
+![CatalogServices](/Architecture/SignUp_Login_architecture.png)
+
+
+### Shopping Cart Services
+
+
+![ShoppingCart](/Architecture/CartAPI_diagram.png)
+
+
+### Payment Services
+
+
+![PaymentServices](/Architecture/Payment_API.png)
+
 
 Following are the core services in our application:
 ### login/sign-up service
