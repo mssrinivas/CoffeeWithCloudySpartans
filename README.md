@@ -6,6 +6,16 @@ Original Repository :
 https://github.com/nguyensjsu/fa18-281-cloudy-spartans
 
 
+### Partition Tolerance demonstration of MongoDB and Riak KV
+
+https://www.youtube.com/watch?v=xMG_6eMnPzU&t=639s
+
+### MongoDB Sharding
+
+https://www.youtube.com/watch?v=U6fFF6tnr8Y&t=15s
+
+
+
 ## Application Architecture Diagram
 
 ![ArchitectureDiagram](/Architecture/Architecture.png)
@@ -34,13 +44,6 @@ https://github.com/nguyensjsu/fa18-281-cloudy-spartans
 
 ![PaymentServices](/Architecture/Payment_API.png)
 
-### Partition Tolerance demonstration of MongoDB and Riak KV
-
-https://www.youtube.com/watch?v=xMG_6eMnPzU&t=639s
-
-### MongoDB Sharding
-
-https://www.youtube.com/watch?v=U6fFF6tnr8Y&t=15s
 
 
 
