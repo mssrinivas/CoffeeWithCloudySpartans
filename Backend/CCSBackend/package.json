@@ -17,7 +17,7 @@
     "fetch": "^1.1.0",
     "fs": "0.0.1-security",
     "multer": "^1.4.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^1.18.7",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
